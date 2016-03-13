@@ -88,6 +88,8 @@
 		AC2A8FC01942BF9200258B01 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
+				LastSwiftMigration = 0700;
+				LastSwiftUpdateCheck = 0700;
 				LastUpgradeCheck = 0600;
 				ORGANIZATIONNAME = apple;
 				TargetAttributes = {
@@ -233,6 +235,7 @@
 				AC2A8FD11942BF9200258B01 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
